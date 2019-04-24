@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Indieteur.BasicLoggingSystem</id>
+    <version>1.0.0</version>
+    <title>Indieteur.BasicLoggingSystem</title>
+    <authors>Indieteur</authors>
+    <licenseUrl>https://github.com/Indieteur/Basic-Logging-System/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Indieteur/Basic-Logging-System</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A basic event logging system.</description>
+    <copyright>Copyright Indieteur 2019</copyright>
+    <tags>Basic, Simple, Easy, Logging</tags>
+  </metadata>
+  <files>
+	<file src="source\Indieteur.BasicLoggingSystem.dll" target="lib\Indieteur.BasicLoggingSystem.dll" />
+  </files>
+</package>
