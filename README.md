@@ -1,2 +1,2 @@
-# Basic-Logging-System
+# Basic Logging System
 A Basic Logging System.
